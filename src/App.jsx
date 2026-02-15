@@ -42,8 +42,7 @@ export default App;
 const styles = {
   app: {
     minHeight: "100vh",
-    width: "100vw",
+    width: "100%",
     backgroundColor: "#F6D6DE",
-    overflow: "hidden",
   },
 };

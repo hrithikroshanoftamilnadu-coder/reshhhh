@@ -109,10 +109,9 @@ export default Page1;
 
 const styles = {
   page: {
-    height: "100vh",
+    minHeight: "100vh",
     width: "100vw",
     position: "relative",
-    overflow: "hidden",
   },
 
   backgroundLayer: {
