@@ -51,6 +51,6 @@ const styles = {
     scrollBehavior: "smooth",
   },
   section: {
-    minHeight: "100vh",
+    scrollSnapAlign: "start",
   },
 };
