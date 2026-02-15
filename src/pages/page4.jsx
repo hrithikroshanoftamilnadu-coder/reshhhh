@@ -138,7 +138,7 @@ const styles = {
 
   card: {
     width: "100%",
-    height: "300px",
+    minHeight: "300px",
     position: "relative",
     transformStyle: "preserve-3d",
     transition: "transform 0.6s ease",
@@ -169,12 +169,12 @@ const styles = {
     boxShadow: "0 10px 25px rgba(0,0,0,0.08)",
     display: "flex",
     flexDirection: "column",
-    overflow: "hidden",
+    overflow: "visible",
   },
 
   image: {
     width: "100%",
-    height: "90%",
+    height: "220px",
     objectFit: "cover",
   },
 
