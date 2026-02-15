@@ -110,7 +110,7 @@ export default Page1;
 const styles = {
   page: {
     height: "100vh",
-    width: "100vw",
+    width: "100%",
     position: "relative",
     overflow: "hidden",
   },

@@ -98,7 +98,7 @@ export default Page2;
 const styles = {
   page: {
     minHeight: "100vh",
-    width: "100vw",
+    width: "100%",
     position: "relative",
   },
 

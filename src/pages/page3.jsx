@@ -47,7 +47,7 @@ export default Page3;
 const styles = {
   page: {
     minHeight: "100vh",
-    width: "100vw",
+    width: "100%",
     padding: "60px 20px",
     boxSizing: "border-box",
   },
