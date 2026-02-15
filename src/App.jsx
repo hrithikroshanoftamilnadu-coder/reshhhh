@@ -45,9 +45,11 @@ const styles = {
     width: "100%",
     backgroundColor: "#F6D6DE",
   },
-  section: {
-    minHeight: "100vh",
-    scrollSnapAlign: "start",
+  scrollContainer: {
+    height: "100vh",
+    overflowY: "auto",
+    scrollSnapType: "y mandatory",
+    scrollBehavior: "smooth",
   },
   section: {
     minHeight: "100vh",
