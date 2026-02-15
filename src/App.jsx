@@ -48,11 +48,9 @@ const styles = {
   scrollContainer: {
     height: "100vh",
     overflowY: "auto",
-    scrollSnapType: "y mandatory",
     scrollBehavior: "smooth",
   },
   section: {
     minHeight: "100vh",
-    scrollSnapAlign: "start",
   },
 };
