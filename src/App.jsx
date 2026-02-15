@@ -45,4 +45,12 @@ const styles = {
     width: "100%",
     backgroundColor: "#F6D6DE",
   },
+  section: {
+    minHeight: "100vh",
+    scrollSnapAlign: "start",
+  },
+  section: {
+    minHeight: "100vh",
+    scrollSnapAlign: "start",
+  },
 };
